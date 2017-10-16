@@ -1,5 +1,5 @@
 # Python-3-Codes
 
-Stock market analysis project was provided by Jose Portilla through his Python for finance and trading algorithms course on Udemy.com
+These are codes unrealted to stock market.
 
-Tick tack toe project was also a project given by Jose Portilla through his Python Bootcamp course
+Tick tack toe project is a project given by Jose Portilla through his Python Bootcamp course
