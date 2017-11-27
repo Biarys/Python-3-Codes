@@ -2,11 +2,12 @@
 
 Example of the map is attached. In the top right corner you can toggle on and off volcanoes and population parameters.
 
+Also, clicking on any of the circles shows the height of the volcano.
+
 For volcanoes, filling of the circle is determined by the height of the volcano:
+
 less than 1000 metres = green
-
 1000 - 3000 metres = orange
-
 3000 metres or more = red
 
 The colour of the country is determined by it's population as of 2005:
