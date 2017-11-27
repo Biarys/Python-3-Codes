@@ -1,0 +1,8 @@
+# This is an interactive dictionary that runs in command prompt. 
+
+How does it work:
+1) Enter a word. If the word is in the dictionary, return the definition.
+2) If the word is not in the dictionary (e.g. spelling mistake), look for similar word. 
+    a) If similar word is found, show it to the user and ask if that's the word user is looking for. If that's the case, show the definitons.
+    b) If not similar word is found, print "The word doesn't exist. Please double check it."
+3) The program also accepts words spelled in lower case by mistake e.g. paris instead of Paris.
