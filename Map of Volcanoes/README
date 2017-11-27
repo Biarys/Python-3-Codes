@@ -1,0 +1,22 @@
+# This program produces a map of volcanoes in the US as an html file (which you can open in your browser) 
+
+Example of the map is attached. In the top right corner you can toggle on and off volcanoes and population parameters.
+
+For volcanoes, filling of the circle is determined by the height of the volcano:
+less than 1000 metres = green
+
+1000 - 3000 metres = orange
+
+3000 metres or more = red
+
+The colour of the country is determined by it's population as of 2005:
+
+less than 10 million people = green
+10 - 20 million = orange
+more than 20 million = red
+
+* Note: it is possible to create a more accurate coloring based on distribution of the population or height of the volcanoes
+
+Map1 and Map2 produce identical output, but are results of map.py and map_using_df.py, respectively.
+
+While both programs use pandas, syntax in map_using_df.py explicitely uses data frames
